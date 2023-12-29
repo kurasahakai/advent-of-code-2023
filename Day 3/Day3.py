@@ -1,4 +1,3 @@
-import math as m
 import re
 
 input_file = "input.txt"
