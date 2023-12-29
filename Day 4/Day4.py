@@ -42,6 +42,7 @@ for card in lines:
 
     cards_dict[card_n] = wins
 
+# Part 2
 n_wins_dict = {}
 for card in cards_dict:
     n_wins_dict[int(card)] = len(cards_dict[card])
